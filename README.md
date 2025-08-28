@@ -1,22 +1,19 @@
 
-Great, Venkatesh 👍 I’ll draft a **professional README.md introduction** for your Playwright 30-Day Training Plan that looks impressive for participants and appealing for anyone who comes across it. You can place this at the top of your repo before the detailed day-wise plan.
 
----
+# 🚀 Playwright Mastery in 7 Days – 60 Hours Hands-on Training
 
-# 🚀 Playwright Mastery in 30 Days – 60 Hours Hands-on Training
-
-Welcome to the **Playwright 30-Day Intensive Training Program** 🎯.
+Welcome to the **Playwright 7-Day Intensive Training Program** 🎯.
 This program is designed for **working professionals, test engineers, and developers** who want to master **modern end-to-end testing with Playwright and TypeScript** in a structured, practical, and industry-ready way.
 
 ## 📌 Why Join This Program?
 
-* ✅ **Daily 2-Hour Learning Blocks** – perfectly balanced for professionals.
+* ✅ **Daily 8-Hour Learning Blocks** – perfectly balanced for professionals.
 * ✅ **Hands-On Focus** – every concept is taught with live coding and real-world examples.
 * ✅ **Structured Progression** – start with TypeScript foundations → move into Playwright → scale to CI/CD & AI-driven testing.
 * ✅ **End-to-End Mastery** – from locators, actions, APIs, and GraphQL to CI/CD pipelines & reporting.
 * ✅ **Final Capstone Project** – integrate Page Object Model, API Testing, GraphQL, and CI/CD in a real-world workflow.
 
-## 🗓️ Training Timeline (30 Days – 60 Hours)
+## 🗓️ Training Timeline (7 Days – 60 Hours)
 
 * **Week 1:** TypeScript Foundations – Get production-ready with TS essentials.
 * **Week 2:** Playwright Core Features – Setup, Locators, Actions, Contexts.
@@ -32,7 +29,7 @@ This program is designed for **working professionals, test engineers, and develo
 * Professionals preparing for **product company interviews**.
 * Anyone who wants to **master Playwright with real-world projects**.
 
-## 🏆 What You’ll Achieve by Day 30
+## 🏆 What You’ll Achieve by Day 7
 
 * Write **clean, scalable Playwright test suites** with TypeScript.
 * Automate **modern web applications** (tables, shadow DOM, iframes, file uploads).
